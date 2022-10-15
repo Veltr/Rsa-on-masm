@@ -1,4 +1,3 @@
-ûô
 .386
 .model flat,stdcall,C
 option casemap:none
